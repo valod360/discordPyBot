@@ -1,0 +1,1 @@
+worker: python discounter.py
